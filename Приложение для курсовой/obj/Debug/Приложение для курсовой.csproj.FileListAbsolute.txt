@@ -1,0 +1,47 @@
+C:\Users\Nikisin\source\repos\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.exe.config
+C:\Users\Nikisin\source\repos\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.exe
+C:\Users\Nikisin\source\repos\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.pdb
+C:\Users\Nikisin\source\repos\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csproj.AssemblyReference.cache
+C:\Users\Nikisin\source\repos\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.Auto.resources
+C:\Users\Nikisin\source\repos\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.Properties.Resources.resources
+C:\Users\Nikisin\source\repos\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csproj.GenerateResource.cache
+C:\Users\Nikisin\source\repos\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csproj.CoreCompileInputs.cache
+C:\Users\Nikisin\source\repos\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.exe
+C:\Users\Nikisin\source\repos\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.pdb
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.exe.config
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.exe
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.pdb
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csproj.AssemblyReference.cache
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csproj.SuggestedBindingRedirects.cache
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.Auto.resources
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.Properties.Resources.resources
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.Registration.resources
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.ShopRegistration.resources
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csproj.GenerateResource.cache
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.exe
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.pdb
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.ClientWindow.resources
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.ShopWindow.resources
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csproj.AssemblyReference.cache
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.AdminWindow.resources
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.Auto.resources
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.ClientWindow.resources
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.Properties.Resources.resources
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.Registration.resources
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.ShopWindow.resources
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.ShopRegistration.resources
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csproj.GenerateResource.cache
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csproj.CoreCompileInputs.cache
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.exe
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.pdb
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.exe.config
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.exe
+C:\Users\Nikisin\OneDrive\Рабочий стол\Приложение для курсовой\Приложение для курсовой\bin\Debug\Приложение для курсовой.pdb
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение_для_курсовой.AdminWindow.resources
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\bin\Debug\EntityFramework.dll
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\bin\Debug\EntityFramework.SqlServer.dll
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\bin\Debug\EntityFramework.xml
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\bin\Debug\EntityFramework.SqlServer.xml
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\bin\Debug\ru\EntityFramework.resources.dll
+E:\Рабочий стол\Приложение для курсовой\Приложение для курсовой\obj\Debug\Приложение для курсовой.csproj.CopyComplete
